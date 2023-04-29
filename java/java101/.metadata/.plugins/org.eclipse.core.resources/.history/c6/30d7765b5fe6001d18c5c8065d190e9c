@@ -1,0 +1,17 @@
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		//Değişkenleri oluştur
+		int mat, fizik, kimya, turkce, tarih, muzik;
+		
+		//Scanner sınıfını oluştur
+		Scanner input = new Scanner
+		
+		//kullanıcıdan değerleri al
+		mat = 
+
+	}
+
+}
