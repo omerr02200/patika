@@ -1,0 +1,15 @@
+C:\Users\Ömer Akıncı\Documents\GitHub\patika\.net core\c#101\02_Operators\bin\Debug\net8.0\02_Operators.exe
+C:\Users\Ömer Akıncı\Documents\GitHub\patika\.net core\c#101\02_Operators\bin\Debug\net8.0\02_Operators.deps.json
+C:\Users\Ömer Akıncı\Documents\GitHub\patika\.net core\c#101\02_Operators\bin\Debug\net8.0\02_Operators.runtimeconfig.json
+C:\Users\Ömer Akıncı\Documents\GitHub\patika\.net core\c#101\02_Operators\bin\Debug\net8.0\02_Operators.dll
+C:\Users\Ömer Akıncı\Documents\GitHub\patika\.net core\c#101\02_Operators\bin\Debug\net8.0\02_Operators.pdb
+C:\Users\Ömer Akıncı\Documents\GitHub\patika\.net core\c#101\02_Operators\obj\Debug\net8.0\02_Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ömer Akıncı\Documents\GitHub\patika\.net core\c#101\02_Operators\obj\Debug\net8.0\02_Operators.AssemblyInfoInputs.cache
+C:\Users\Ömer Akıncı\Documents\GitHub\patika\.net core\c#101\02_Operators\obj\Debug\net8.0\02_Operators.AssemblyInfo.cs
+C:\Users\Ömer Akıncı\Documents\GitHub\patika\.net core\c#101\02_Operators\obj\Debug\net8.0\02_Operators.csproj.CoreCompileInputs.cache
+C:\Users\Ömer Akıncı\Documents\GitHub\patika\.net core\c#101\02_Operators\obj\Debug\net8.0\02_Operators.sourcelink.json
+C:\Users\Ömer Akıncı\Documents\GitHub\patika\.net core\c#101\02_Operators\obj\Debug\net8.0\02_Operators.dll
+C:\Users\Ömer Akıncı\Documents\GitHub\patika\.net core\c#101\02_Operators\obj\Debug\net8.0\refint\02_Operators.dll
+C:\Users\Ömer Akıncı\Documents\GitHub\patika\.net core\c#101\02_Operators\obj\Debug\net8.0\02_Operators.pdb
+C:\Users\Ömer Akıncı\Documents\GitHub\patika\.net core\c#101\02_Operators\obj\Debug\net8.0\02_Operators.genruntimeconfig.cache
+C:\Users\Ömer Akıncı\Documents\GitHub\patika\.net core\c#101\02_Operators\obj\Debug\net8.0\ref\02_Operators.dll
