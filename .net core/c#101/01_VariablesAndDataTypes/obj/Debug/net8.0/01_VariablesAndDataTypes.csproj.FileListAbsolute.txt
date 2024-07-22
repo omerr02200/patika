@@ -1,0 +1,15 @@
+C:\Users\Ömer Akıncı\Documents\GitHub\patika\.net core\c#101\01_VariablesAndDataTypes\bin\Debug\net8.0\01_VariablesAndDataTypes.exe
+C:\Users\Ömer Akıncı\Documents\GitHub\patika\.net core\c#101\01_VariablesAndDataTypes\bin\Debug\net8.0\01_VariablesAndDataTypes.deps.json
+C:\Users\Ömer Akıncı\Documents\GitHub\patika\.net core\c#101\01_VariablesAndDataTypes\bin\Debug\net8.0\01_VariablesAndDataTypes.runtimeconfig.json
+C:\Users\Ömer Akıncı\Documents\GitHub\patika\.net core\c#101\01_VariablesAndDataTypes\bin\Debug\net8.0\01_VariablesAndDataTypes.dll
+C:\Users\Ömer Akıncı\Documents\GitHub\patika\.net core\c#101\01_VariablesAndDataTypes\bin\Debug\net8.0\01_VariablesAndDataTypes.pdb
+C:\Users\Ömer Akıncı\Documents\GitHub\patika\.net core\c#101\01_VariablesAndDataTypes\obj\Debug\net8.0\01_VariablesAndDataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ömer Akıncı\Documents\GitHub\patika\.net core\c#101\01_VariablesAndDataTypes\obj\Debug\net8.0\01_VariablesAndDataTypes.AssemblyInfoInputs.cache
+C:\Users\Ömer Akıncı\Documents\GitHub\patika\.net core\c#101\01_VariablesAndDataTypes\obj\Debug\net8.0\01_VariablesAndDataTypes.AssemblyInfo.cs
+C:\Users\Ömer Akıncı\Documents\GitHub\patika\.net core\c#101\01_VariablesAndDataTypes\obj\Debug\net8.0\01_VariablesAndDataTypes.csproj.CoreCompileInputs.cache
+C:\Users\Ömer Akıncı\Documents\GitHub\patika\.net core\c#101\01_VariablesAndDataTypes\obj\Debug\net8.0\01_VariablesAndDataTypes.sourcelink.json
+C:\Users\Ömer Akıncı\Documents\GitHub\patika\.net core\c#101\01_VariablesAndDataTypes\obj\Debug\net8.0\01_VariablesAndDataTypes.dll
+C:\Users\Ömer Akıncı\Documents\GitHub\patika\.net core\c#101\01_VariablesAndDataTypes\obj\Debug\net8.0\refint\01_VariablesAndDataTypes.dll
+C:\Users\Ömer Akıncı\Documents\GitHub\patika\.net core\c#101\01_VariablesAndDataTypes\obj\Debug\net8.0\01_VariablesAndDataTypes.pdb
+C:\Users\Ömer Akıncı\Documents\GitHub\patika\.net core\c#101\01_VariablesAndDataTypes\obj\Debug\net8.0\01_VariablesAndDataTypes.genruntimeconfig.cache
+C:\Users\Ömer Akıncı\Documents\GitHub\patika\.net core\c#101\01_VariablesAndDataTypes\obj\Debug\net8.0\ref\01_VariablesAndDataTypes.dll

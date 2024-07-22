@@ -22,5 +22,4 @@ public class Main {
 			System.out.println(year + " yılı artık bir yıl değildir.");
 		}
 	}
-
 }
