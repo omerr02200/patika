@@ -1,0 +1,15 @@
+C:\Users\Ömer Akıncı\Documents\GitHub\patika\.net core\c#101\03_TypeConversions\bin\Debug\net8.0\03_TypeConversions.exe
+C:\Users\Ömer Akıncı\Documents\GitHub\patika\.net core\c#101\03_TypeConversions\bin\Debug\net8.0\03_TypeConversions.deps.json
+C:\Users\Ömer Akıncı\Documents\GitHub\patika\.net core\c#101\03_TypeConversions\bin\Debug\net8.0\03_TypeConversions.runtimeconfig.json
+C:\Users\Ömer Akıncı\Documents\GitHub\patika\.net core\c#101\03_TypeConversions\bin\Debug\net8.0\03_TypeConversions.dll
+C:\Users\Ömer Akıncı\Documents\GitHub\patika\.net core\c#101\03_TypeConversions\bin\Debug\net8.0\03_TypeConversions.pdb
+C:\Users\Ömer Akıncı\Documents\GitHub\patika\.net core\c#101\03_TypeConversions\obj\Debug\net8.0\03_TypeConversions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ömer Akıncı\Documents\GitHub\patika\.net core\c#101\03_TypeConversions\obj\Debug\net8.0\03_TypeConversions.AssemblyInfoInputs.cache
+C:\Users\Ömer Akıncı\Documents\GitHub\patika\.net core\c#101\03_TypeConversions\obj\Debug\net8.0\03_TypeConversions.AssemblyInfo.cs
+C:\Users\Ömer Akıncı\Documents\GitHub\patika\.net core\c#101\03_TypeConversions\obj\Debug\net8.0\03_TypeConversions.csproj.CoreCompileInputs.cache
+C:\Users\Ömer Akıncı\Documents\GitHub\patika\.net core\c#101\03_TypeConversions\obj\Debug\net8.0\03_TypeConversions.sourcelink.json
+C:\Users\Ömer Akıncı\Documents\GitHub\patika\.net core\c#101\03_TypeConversions\obj\Debug\net8.0\03_TypeConversions.dll
+C:\Users\Ömer Akıncı\Documents\GitHub\patika\.net core\c#101\03_TypeConversions\obj\Debug\net8.0\refint\03_TypeConversions.dll
+C:\Users\Ömer Akıncı\Documents\GitHub\patika\.net core\c#101\03_TypeConversions\obj\Debug\net8.0\03_TypeConversions.pdb
+C:\Users\Ömer Akıncı\Documents\GitHub\patika\.net core\c#101\03_TypeConversions\obj\Debug\net8.0\03_TypeConversions.genruntimeconfig.cache
+C:\Users\Ömer Akıncı\Documents\GitHub\patika\.net core\c#101\03_TypeConversions\obj\Debug\net8.0\ref\03_TypeConversions.dll
